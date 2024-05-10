@@ -1,0 +1,3 @@
+activate tensorflow
+cd C:\Users\LZ\Desktop\Coding\tensorflow1
+tensorboard --logdir=logs
